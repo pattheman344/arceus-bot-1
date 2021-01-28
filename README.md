@@ -10,8 +10,8 @@ Go into your command prompt, and type in "pip install discord.py", this will ins
 
 ## Installing the other Modules for this bot
 
-pip install random
-pip install praw
-pip install requests
-pip install json
-pip install asyncio
+### pip install random
+### pip install praw
+### pip install requests
+### pip install json
+### pip install asyncio
