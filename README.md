@@ -15,3 +15,5 @@ Go into your command prompt, and type in "pip install discord.py", this will ins
 ### pip install requests
 ### pip install json
 ### pip install asyncio
+
+# Huge credits to sauce#0002, he helped me in some of the commands like the reddit memes command.
