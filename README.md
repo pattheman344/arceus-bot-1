@@ -10,6 +10,8 @@ Go into your command prompt, and type in "pip install discord.py", this will ins
 
 ## Installing the other Modules for this bot
 
+Go into your command prompt once again, and then write the following commands:
+
 ### pip install random
 ### pip install praw
 ### pip install requests
