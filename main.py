@@ -92,8 +92,7 @@ async def _8ball(ctx, * , question):
 
 @client.command()
 async def dice(ctx):
-    responses = ["1", "2", "3", "4", "5", "6"]
-    await ctx.send(f':game_die: You rolled {random.choice(responses)}')
+await ctx.send(f':game_die: You rolled {str(random.randint(1, 6))}')
 
 @client.command()
 async def meme(ctx):
